@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "app.webboard.twa",
+        "sha256_cert_fingerprints": ["B3:CD:90:4A:98:3A:D6:C3:32:D7:3E:F4:9B:EE:58:6B:B8:92:7C:A0:0A:56:54:4B:E3:BC:DF:3B:40:F4:0C:09"]
+      }
+    }]
